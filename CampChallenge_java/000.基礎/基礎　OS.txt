@@ -1,0 +1,6 @@
+デバイス名　DELL
+プロセッサ　Intel(R)Core(TM) i3-5005U CPU @ 2.00GHz 2.00GHz
+実装RAM     4.00GB
+デバイスID  833884E4F-C23d-432B-A539-BC5530DE7953
+プロダクトID 00325-80593-48795-AAOEM
+システムの種類 64-bit operating system, x64-based processor
